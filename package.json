@@ -11,7 +11,8 @@
       "arlac77/template-root"
     ],
     "usedBy": [
-      "arlac77/resume-renderer"
+      "arlac77/resume-renderer",
+      "arlac77/resume-renderer-example"
     ]
   }
 }
