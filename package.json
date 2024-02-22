@@ -1,7 +1,5 @@
 {
   "scripts": {
-    "build": "npm run prepare:xslt",
-    "prepare:xslt": "xslt3 -xsl:a.xsl -s:source.xml -o:out.xml"
   },
   "devDependencies": {
     "xslt3": "^2.6.0"
