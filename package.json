@@ -2,7 +2,7 @@
   "scripts": {
   },
   "devDependencies": {
-    "xslt3": "^2.6.0"
+    "xslt3": "^2.7.0"
   },
   "template": {
     "inheritFrom": [
